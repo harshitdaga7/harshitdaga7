@@ -18,5 +18,20 @@
   <img src="https://komarev.com/ghpvc/?username=harshitdaga7&style=flat-square&color=blue" alt=""/>
 </div>
 
+<h2 align = "center">
+  Hi there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="20px" width="20px"/>
+</h2>
 
+---
 
+## 👨‍💻 About Me
+  
+I am a CS student from India.
+- Competitive Programmer
+  - [Codeforces](https://codeforces.com/profile/smartestOrangutan)
+  - [Codechef](https://www.codechef.com/users/harshitdaga7)
+- Web Developer
+- Machine Learning
+- Deep Learning
+- Currently learning React
