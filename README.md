@@ -27,11 +27,20 @@
 
 ## 👨‍💻 About Me
   
-I am a CS student from India.
-- Competitive Programmer
+I am Harshit Daga , a CS student from India.
+- 💻 Competitive Programmer
   - [Codeforces](https://codeforces.com/profile/smartestOrangutan)
   - [Codechef](https://www.codechef.com/users/harshitdaga7)
-- Web Developer
+- 🕸️ Web Developer
 - Machine Learning
-- Deep Learning
-- Currently learning React
+- 🧠 Deep Learning
+- ⏲️ Currently learning React
+- 📫 Reach out at [harshitdaga7@gmail.com](mailto:harshitdaga7@gmail.com)
+
+---
+
+### :fire: My Stats :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=harshitdaga7&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harshitdaga7)](https://github.com/anuraghazra/github-readme-stats)
