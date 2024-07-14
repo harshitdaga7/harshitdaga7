@@ -34,9 +34,3 @@ I am Harshit Daga, Software Developer.
 - 📫 Reach out at [harshitdaga7@gmail.com](mailto:harshitdaga7@gmail.com)
 
 ---
-
-### :fire: My Stats :
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=harshitdaga7&theme=dark&background=000000)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harshitdaga7)](https://github.com/anuraghazra/github-readme-stats)
