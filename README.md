@@ -27,14 +27,10 @@
 
 ## 👨‍💻 About Me
   
-I am Harshit Daga , a CS student from India.
-- 💻 Competitive Programmer
-  - [Codeforces](https://codeforces.com/profile/smartestOrangutan)
-  - [Codechef](https://www.codechef.com/users/harshitdaga7)
-- 🕸️ Web Developer
-- Machine Learning
-- 🧠 Deep Learning
-- ⏲️ Currently learning React
+I am Harshit Daga, Software Developer.
+- I have experience developing web apps.
+- Apart from work , I like learning random CS facts ( do send me if you have some) , how everything or anything works :) ,  machine learning and doing competitve programming.
+- Tech stack - Python , Javascript, Typescript, Flask, React, Next.js, Express.
 - 📫 Reach out at [harshitdaga7@gmail.com](mailto:harshitdaga7@gmail.com)
 
 ---
